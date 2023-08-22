@@ -1,5 +1,5 @@
-<h1 align="center">print("Welcome") Emreduhan</h1>
-<h3 align="center">inquisitive for AI & something like that</h3>
+<h1 align="center">print("Welcome")</h1>
+<h3 align="center">Inquisitive for AI & something like that</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreduhan&label=Profile%20views&color=0e75b6&style=flat" alt="emreduhan" /> </p>
 
